@@ -31,5 +31,6 @@ group :development, :test, :cucumber do
   gem 'cucumber-rails'
   gem 'capybara'
   gem 'factory_girl_rails'
+  gem 'faker'
   gem 'ruby-debug19', :require => 'ruby-debug'
 end
